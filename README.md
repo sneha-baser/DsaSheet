@@ -4,7 +4,6 @@ Programming Languauge: C++
 
 
 
-
 | Problem Link  | My Solution |
 | ------------- | ------------- |
 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)  | [Solution](https://github.com/sneha-baser/DsaSheet/blob/main/ReverseArray.cpp)  |
@@ -17,5 +16,6 @@ Programming Languauge: C++
 |[Kadane's Algorithm ](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Kadane's%20Algorithm.cpp)|
 |[Minimize the maximum difference between the heights](https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Minimize%20the%20Heights%20II.cpp)|
 |[Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Minimum%20number%20of%20jumps.cpp)|
-|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Find%20the%20Duplicate%20Number.cpp)|
+|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](https://leetcode.com/submissions/detail/478053377/)|
+|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Merge%20Intervals.cpp)|
 
