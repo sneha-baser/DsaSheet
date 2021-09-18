@@ -3,6 +3,7 @@ It contain solution of all question of DSA sheet that I am going to solve.
 Programming Languauge: C++
 
 
+
 | Problem Link  | My Solution |
 | ------------- | ------------- |
 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)  | [Solution](https://github.com/sneha-baser/DsaSheet/blob/main/ReverseArray.cpp)  |
@@ -13,4 +14,5 @@ Programming Languauge: C++
 |[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Union%20of%20two%20arrays.cpp)|
 |[Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Cyclically%20rotate%20an%20array%20by%20one.cpp)|
 |[Kadane's Algorithm ](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Kadane's%20Algorithm.cpp)|
+|[Minimize the maximum difference between the heights](https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/)|[Solution](https://github.com/sneha-baser/DsaSheet/blob/main/Minimize%20the%20Heights%20II.cpp)|
 
