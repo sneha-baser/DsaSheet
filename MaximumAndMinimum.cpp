@@ -1,3 +1,6 @@
+//TimeComplexity: worst:1+2*(n-1)comparisons , best:n comparisons
+//SpaceComplexity: O(1)
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
